@@ -36,3 +36,17 @@ footer{
     background-color: rgb(241, 233, 233);
     color: black;
 }
+
+
+div.socialLinks{
+    margin-top: 50px;
+}
+
+.socialLinks>a{
+
+    margin: 0 20px;
+    color: rgb(6, 171, 231);
+    text-decoration:none;
+    font-weight: 500;
+
+}
